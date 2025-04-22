@@ -2,7 +2,7 @@
 title: 'My First Blog Post'
 pubDate: 2025-14-04
 description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+author: 'Tyera Claw'
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'The Astro logo on a dark background with a pink glow.'
@@ -11,6 +11,7 @@ tags: ["astro", "blogging", "learning in public"]
  <a href="/">Home</a>
  <a href="/about/">About</a>
  <a href="/blog/">Blog</a>
+
 
 # My First Blog Post
 
